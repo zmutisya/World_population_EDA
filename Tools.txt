@@ -1,0 +1,9 @@
+
+1.Python for data analysis
+2.Jupyter Notebook for interactive coding and data analysis and visualization
+3.MySQL/Aiven for database management and storage
+4.DBeaver workbench for managing and interacting with the database and running SQL queries
+5.Pandas for data cleaning and manipulation
+6.Matplotlib for data visualization
+7.Seaborn for data visualization
+8.Tableau for creating an interactive dashboard

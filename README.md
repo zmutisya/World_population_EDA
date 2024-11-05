@@ -10,3 +10,6 @@ This is Exploratory Data Analysis (EDA) of global population growth from 1970 to
 * Matplotlib for data visualization
 * Seaborn for drawing informative and statistical graphs
 * Tableau for creating an interactive dashboard
+## Data Storage
+Here is the code for storing the data to MySQL database
+## Dataset

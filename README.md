@@ -13,3 +13,20 @@ This is Exploratory Data Analysis (EDA) of global population growth from 1970 to
 ## Data Storage
 Here is the code for storing the data to MySQL database
 ## Dataset
+The dataset has 17 columns and 234 rows.
+* Rank
+* CCA3
+* Country/Territory
+* Capital
+* Continent
+* 2022 Population
+* 2020 Population
+* 2015 Population
+* 2010 Population
+* 2000 Population
+* 1990 Population
+* 1980 Population
+* 1970 Population
+* Area (km)
+* Density (per km)
+* Growth Rate

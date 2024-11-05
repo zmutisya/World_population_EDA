@@ -33,3 +33,5 @@ The dataset has 17 columns and 234 rows.
 ## Problem Statement
 The main objective of the EDA is to understand historical trends that will help will analyze how the world population has evolved over time and highlight patterns, shifts and factors that may have influenced growth rates and density changes.
 ## Tableau Dashboard
+
+![World population](https://github.com/user-attachments/assets/83cf6a44-e177-459a-afcf-87e32eb660e0)

@@ -35,3 +35,5 @@ The main objective of the EDA is to understand historical trends that will help 
 ## Tableau Dashboard
 
 ![World population](https://github.com/user-attachments/assets/83cf6a44-e177-459a-afcf-87e32eb660e0)
+
+To interact with dashboard click this [link](https://public.tableau.com/views/WorldPopulation_17303870067060/Worldpopulation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

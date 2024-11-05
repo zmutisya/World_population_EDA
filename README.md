@@ -52,4 +52,18 @@ The main objective of the EDA is to understand historical trends that will help 
   
 
 To interact with dashboard click this [link](https://public.tableau.com/views/WorldPopulation_17303870067060/Worldpopulation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## Practice with this dataset
+* To run this dataset, ensure you have the following installed 
+1. Python
+2. Jupyter Notebook
+3. MySQL/Aiven
+4. DBeaver
+5. Git
+6. Tableau
+* Import these libraries to ensure the project runs succesfuly
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Seaborn
+5. sqlalchemy
 ## Conclusion

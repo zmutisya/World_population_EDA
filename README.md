@@ -30,3 +30,6 @@ The dataset has 17 columns and 234 rows.
 * Area (km)
 * Density (per km)
 * Growth Rate
+## Problem Statement
+The main objective of the EDA is to understand historical trends that will help will analyze how the world population has evolved over time and highlight patterns, shifts and factors that may have influenced growth rates and density changes.
+## Tableau Dashboard

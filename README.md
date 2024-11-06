@@ -44,7 +44,7 @@ From the EDA these are the findings
 * United States with a population of 338 million
 * Indonesia with a population of 275 million
 * Pakistan with a population of 236 million
-## India has experienced the most significant population growth since 1970, with a 154% increase, while the United States saw a more modest 69% growth.
+From the analysis India has experienced the most significant population growth since 1970, with a 154% increase, while the United States saw a more modest 69% growth.
 ## Countries with highest population density 
 * Macau: 23,172 people per km²
 * Monaco: 18,234 people per km²
@@ -56,7 +56,6 @@ These locations have limited land area, which significantly boosts their populat
 * Africa has the highest average growth rate at approximately 1.02%, indicating rapid population increases.
 * Asia follows closely with a 1.01% average growth rate, contributing heavily to global population growth.
 * Europe has the lowest growth rate, at around 1.00%, indicating more stable or even declining populations in some areas.
-
 # Summary
 * Asia and Africa are the major contributors to global population growth, with African nations in particular expected to see continued rapid increases.
 * Densely populated regions often face challenges related to resource allocation, infrastructure, and environmental impact due to limited land area.
@@ -79,4 +78,3 @@ To interact with dashboard click this [link](https://public.tableau.com/views/Wo
 3. Matplotlib
 4. Seaborn
 5. sqlalchemy
-## Conclusion

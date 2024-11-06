@@ -38,21 +38,21 @@ The dataset has 17 columns and 234 rows.
 The main objective of the EDA is to understand historical trends that will help will analyze how the world population has evolved over time and highlight patterns, shifts and factors that may have influenced growth rates and density changes.
 # Findings
 From the EDA these are the findings
-## The 5 top populous countries in 2022 are
+# The 5 top populous countries in 2022 are
 * China with a population of 1.43 billion
 * India with a population of 1.42 billion
 * United States with a population of 338 million
 * Indonesia with a population of 275 million
 * Pakistan with a population of 236 million
 From the analysis India has experienced the most significant population growth since 1970, with a 154% increase, while the United States saw a more modest 69% growth.
-## Countries with highest population density 
+# Countries with highest population density 
 * Macau: 23,172 people per km²
 * Monaco: 18,234 people per km²
 * Singapore: 8,416 people per km²
 * Hong Kong: 6,783 people per km²
 * Gibraltar: 5,441 people per km²
 These locations have limited land area, which significantly boosts their population density.
-## Continental population growth trends
+# Continental population growth trends
 * Africa has the highest average growth rate at approximately 1.02%, indicating rapid population increases.
 * Asia follows closely with a 1.01% average growth rate, contributing heavily to global population growth.
 * Europe has the lowest growth rate, at around 1.00%, indicating more stable or even declining populations in some areas.
@@ -65,14 +65,14 @@ These locations have limited land area, which significantly boosts their populat
 ![World population](https://github.com/user-attachments/assets/83cf6a44-e177-459a-afcf-87e32eb660e0)
 To interact with dashboard click this [link](https://public.tableau.com/views/WorldPopulation_17303870067060/Worldpopulation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## Practice with this dataset
-* To run this dataset, ensure you have the following installed 
+To run this dataset, ensure you have the following installed 
 1. Python
 2. Jupyter Notebook
 3. MySQL/Aiven
 4. DBeaver
 5. Git
 6. Tableau
-* Import these libraries to ensure the project runs succesfuly
+Import these libraries to ensure the project runs succesfuly
 1. Pandas
 2. Numpy
 3. Matplotlib

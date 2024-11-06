@@ -12,6 +12,7 @@ This is Exploratory Data Analysis (EDA) of global population growth from 1970 to
 * Tableau for creating an interactive dashboard
 ## Data Storage
 Here is the code for storing the data to MySQL database
+![db connection](https://github.com/user-attachments/assets/24fa7c40-b600-470b-a9d6-aa1d8cc0be48)
 ## Dataset
 The dataset has 17 columns and 234 rows.
 * Rank

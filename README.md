@@ -10,7 +10,7 @@ This is Exploratory Data Analysis (EDA) of global population growth from 1970 to
 * Matplotlib for data visualization
 * Seaborn for drawing informative and statistical graphs
 * Tableau for creating an interactive dashboard
-## Dataframe dataset
+## Dataframe 
 Here is the first 10 rows of the dataset.
 ![10 rows](https://github.com/user-attachments/assets/96bc9703-7aa3-46f1-966a-3eba4213fd90)
 ## Data Storage

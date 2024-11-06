@@ -72,6 +72,7 @@ To run this dataset, ensure you have the following installed
 4. DBeaver
 5. Git
 6. Tableau
+
 Import these libraries to ensure the project runs succesfuly
 1. Pandas
 2. Numpy
